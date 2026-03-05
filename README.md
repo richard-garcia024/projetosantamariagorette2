@@ -20,7 +20,7 @@ O sistema permite o cadastro de cliente atraves de aba **cad_cliente**.
 const idade=25
 if idade>=18{
   console.log("pode dirigir")
-}else{
+} else {
 comote)"Não pode dirigir")
 }
 ~~~
